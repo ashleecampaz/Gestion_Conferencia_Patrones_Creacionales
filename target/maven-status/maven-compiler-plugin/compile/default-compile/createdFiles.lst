@@ -1,0 +1,5 @@
+com\conference\gestion_conferencia_p_creacionales\domain\ConferencePrototype.class
+com\conference\gestion_conferencia_p_creacionales\Gestion_conferencia_p_creacionales.class
+com\conference\gestion_conferencia_p_creacionales\domain\Session.class
+com\conference\gestion_conferencia_p_creacionales\domain\Sumposium.class
+com\conference\gestion_conferencia_p_creacionales\domain\WorkShop.class
