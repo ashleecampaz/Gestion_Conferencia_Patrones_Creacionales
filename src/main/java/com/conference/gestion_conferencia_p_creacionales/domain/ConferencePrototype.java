@@ -29,7 +29,8 @@ public class ConferencePrototype {
     int numAcceptedArticles;
     float minCalification;
     List<Session> sessions; 
-
+    public ConferencePrototype(){}
+    
     public ConferencePrototype(String name, String theme, String organizingEntity, String country, String state, String city, String address, String startDate, String endDate) {
         this.name = name;
         this.theme = theme;
